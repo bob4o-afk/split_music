@@ -1,0 +1,3 @@
+replay from paused
+check for having the same song - dict and links
+fix the cleaning stuff
